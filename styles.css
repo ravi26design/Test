@@ -712,6 +712,7 @@ body.use-custom-cursor .btn { cursor: none; }
   .deco-arc { display: none; }
 }
 @media (max-width: 760px) {
+  .hero-grid { padding-top: 120px; }
   .hero-social { flex-wrap: wrap; }
   .hero-note-card { display: none; }
 }
