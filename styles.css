@@ -883,7 +883,7 @@ h1, h2, h3, h4 { font-family: var(--sans); font-weight: 600; letter-spacing: -.0
    ✦ Mobile responsive polish ✦
    ========================================================================== */
 @media (max-width: 760px) {
-  .hero-grid { padding: 72px 0 54px; }
+  .hero-grid { padding: 120px 0 54px; }
   .hero-copy h1 { font-size: clamp(2.2rem, 9vw, 2.7rem); line-height: 1.07; }
   .hero-copy .lede { font-size: 1.04rem; }
   .hero-stats { margin-top: 26px; }
