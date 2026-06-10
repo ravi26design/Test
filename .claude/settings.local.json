@@ -6,7 +6,16 @@
       "Bash(git config *)",
       "Bash(git add *)",
       "Bash(git commit -q -m 'Initial commit *)",
-      "Bash(git branch *)"
+      "Bash(git branch *)",
+      "Bash(gh repo *)",
+      "Bash(gh api *)",
+      "Bash(git commit -q -m 'Add top padding to hero section on mobile *)",
+      "Bash(git push *)",
+      "Bash(curl -s \"https://ravi26design.github.io/Test/styles.css?$\\(date +%s\\)\")",
+      "Bash(git commit -q -m 'Increase hero top padding on mobile *)",
+      "Bash(git commit -q -m 'More hero top spacing below header on mobile *)",
+      "Bash(curl -s \"https://ravi26design.github.io/Test/styles.css?v=$\\(date +%s\\)\")",
+      "Bash(git commit -q -m 'Bump CSS cache version to 40 to bust browser cache *)"
     ]
   }
 }
